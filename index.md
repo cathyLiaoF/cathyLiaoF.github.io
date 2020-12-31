@@ -1,6 +1,6 @@
-## Portfolio
+## HELLO!
 
-### Personal Information
+### About me
 ![Image](image.png)
 
 **Name** : Fangqing Liao           
